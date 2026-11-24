@@ -9,9 +9,6 @@
 <br/>
 
 <a href="https://github.com/jit-d">
-<img src="https://img.shields.io/badge/GITHUB-jit--d-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<img src="https://komarev.com/ghpvc/?username=jit-d&style=for-the-badge&color=7B2FF7&label=PROFILE+VIEWS"/>
 
 </div>
 
