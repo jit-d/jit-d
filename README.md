@@ -4,10 +4,6 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=800&color=00DBDE&center=true&vCenter=true&width=700&lines=Building+ideas+into+reality.;Curiosity+over+convention.;Exploring.+Experimenting.+Building.;No+fixed+roadmap.+Just+build." />
-
-<br/><br/>
-
 <a href="https://github.com/jit-d">
 <img src="https://img.shields.io/badge/GITHUB-jit--d-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
@@ -150,8 +146,6 @@ Learning through projects, solving interesting problems, and following ideas whe
 <div align="center">
 
 <br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=3000&pause=1000&color=00DBDE&center=true&vCenter=true&width=650&lines=NO+FIXED+ROADMAP.;NO+LIMITS+ON+IDEAS.;JUST+BUILD+WHAT+MATTERS." />
 
 <br/><br/>
 
