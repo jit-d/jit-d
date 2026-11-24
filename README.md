@@ -1,74 +1,174 @@
-Hey, I'm Jit 👋
-🧠 Independent Developer · Builder of Random Ideas · Problem Solver
+<div align="center">
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=I+build+whatever+I+feel+needs+to+exist.;No+fixed+rules.+Just+ideas+and+code.;Learning%2C+building%2C+experimenting." />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&text=JIT-D&fontSize=75&color=0:00DBDE,50:7B2FF7,100:FC00FF&stroke=00DBDE&fontColor=FFFFFF&animation=fadeIn&fontAlignY=55&desc=INDEPENDENT%20DEVELOPER%20%7C%20STUDENT%20%7C%20CREATOR&descSize=13&descAlignY=75" width="100%"/>
 
-🧩 About Me
-
-I'm Jit — an independent developer who enjoys turning random thoughts, problems, and ideas into working projects.
-
-I don't really follow a fixed roadmap. If something feels useful or interesting, I try to build it.
-
-💻 I enjoy experimenting with different technologies.
-🐍 Python, SQL, HTML, C++ and a bit of SCSS.
-🗄️ I work with Supabase and databases.
-🛠️ VS Code and GitHub are part of my everyday workflow.
-🚀 I build tools, websites, experiments and whatever comes to mind.
-🧪 Always experimenting with new ideas.
-
-My philosophy: No fixed rules. If I can imagine it, I'll try to build it.
-
-⚙️ My Tech Stack
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,html,cpp,scss,git,github,vscode,supabase" />
-</p>
-
-Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres" />
-</p>
-
-🚀 Things I've Built
-
-I like building things across different categories rather than sticking to one niche.
-
-Project	What it is
-🎵 oilvl	A website for song lyrics
-🎧 lyricflow	Lyrics-related project
-📈 SONALIKA	Share market tool
-🧬 ema.dna	Python project
-📦 stock.dna	HTML project
-🔷 shape.dna	Python project
-💡 idea	Experimental project
-
-Explore all my repositories to see what I'm working on.
-
-📊 GitHub Stats
-
-<p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=jit-d&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jit-d&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-🌱 Currently
-Building things that solve problems or satisfy curiosity.
-Exploring different programming concepts.
-Improving my existing projects.
-Turning ideas into actual products.
-🤝 Find Me
-
-<p align="left">
-<a href="https://github.com/jit-d">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-</p>
-
-<p align="center">
-### "No fixed roadmap. Just build what matters."
 <br/>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=120&section=footer" />
-</p>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=00DBDE&center=true&vCenter=true&width=600&lines=Building+ideas+into+reality.;Curiosity+over+convention.;No+fixed+roadmap.+Just+build." />
+
+<br/>
+
+<a href="https://github.com/jit-d">
+<img src="https://img.shields.io/badge/GITHUB-jit--d-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<img src="https://komarev.com/ghpvc/?username=jit-d&style=for-the-badge&color=7B2FF7&label=PROFILE+VIEWS"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+01 / ABOUT
+
+</div>
+
+<div align="center">
+
+High school student. Independent developer. Professional curiosity enthusiast.
+
+I build things that I feel should exist.
+
+From useful tools to random experiments, I enjoy turning ideas into functional projects. I don't limit myself to a single category or follow a predefined roadmap.
+
+I find an idea. I explore it. I build it.
+
+</div>
+
+<br/>
+
+<div align="center">
+
+02 / TECH ARSENAL
+
+LANGUAGES
+
+<img src="https://skillicons.dev/icons?i=python,html,cpp,scss&theme=dark" />
+
+DATABASE & PLATFORMS
+
+<img src="https://skillicons.dev/icons?i=supabase,mysql,postgres&theme=dark" />
+
+DEVELOPMENT TOOLS
+
+<img src="https://skillicons.dev/icons?i=vscode,git,github&theme=dark" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+03 / SELECTED WORKS
+
+Different ideas. Different directions. One developer.
+
+</div>
+
+<table align="center">
+<tr>
+<td width="50%" align="center">
+
+📈 SONALIKA
+
+A share market tool.
+
+<a href="https://github.com/jit-d/SONALIKA">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-FC00FF?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+<td width="50%" align="center">
+
+🎧 lyricflow
+
+A lyrics-related project.
+
+<a href="https://github.com/jit-d/lyricflow">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-7B2FF7?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+
+🧬 ema.dna
+
+Visual simple EMA levels
+
+<a href="https://github.com/jit-d/ema.dna">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-00DBDE?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+
+🎵 oilvl
+
+A website for comparing OI levels.
+
+<a href="https://github.com/jit-d/oilvl">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-00DBDE?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+
+</td>
+<td width="50%" align="center">
+  
+  📦 stock.dna
+
+Examine Stock technicals.
+
+<a href="https://github.com/jit-d/stock.dna">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-FC00FF?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<a href="https://github.com/jit-d?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE_ALL_REPOSITORIES-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+04 / GITHUB STATISTICS
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=jit-d&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00DBDE&icon_color=7B2FF7&text_color=C9D1D9"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jit-d&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00DBDE&text_color=C9D1D9"/>
+
+<br/><br/>
+
+<img width="75%" src="https://streak-stats.demolab.com?user=jit-d&theme=tokyonight&hide_border=true&background=0D1117&ring=7B2FF7&fire=FC00FF&currStreakLabel=00DBDE"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+05 / CURRENTLY
+
+Exploring. Experimenting. Building.
+
+Learning through projects, solving interesting problems, and following ideas wherever they lead.
+
+<br/>
+
+NO FIXED ROADMAP. JUST BUILD WHAT MATTERS.
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FC00FF,50:7B2FF7,100:00DBDE&height=130&section=footer"/>
+
+</div>
