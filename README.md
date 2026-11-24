@@ -74,7 +74,6 @@ Different ideas. Different directions. One developer.
 A share market tool.
 
 <a href="https://github.com/jit-d/SONALIKA">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-FC00FF?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
@@ -85,7 +84,6 @@ A share market tool.
 A lyrics-related project.
 
 <a href="https://github.com/jit-d/lyricflow">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-7B2FF7?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
@@ -98,23 +96,11 @@ A lyrics-related project.
 Visual simple EMA levels
 
 <a href="https://github.com/jit-d/ema.dna">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-00DBDE?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 
 </td>
 </tr>
 <tr>
-<td width="50%" align="center">
-
-🎵 oilvl
-
-A website for comparing OI levels.
-
-<a href="https://github.com/jit-d/oilvl">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-00DBDE?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
-
-</td>
 <td width="50%" align="center">
   
   📦 stock.dna
@@ -122,7 +108,6 @@ A website for comparing OI levels.
 Examine Stock technicals.
 
 <a href="https://github.com/jit-d/stock.dna">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-FC00FF?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
