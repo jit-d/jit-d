@@ -134,13 +134,11 @@ Data-driven options chain analysis.
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=jit-d&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00DBDE&icon_color=7B2FF7&text_color=C9D1D9"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jit-d&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00DBDE&text_color=C9D1D9"/>
+<img width="85%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jit-d&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00DBDE&text_color=C9D1D9&langs_count=8"/>
 
 <br/><br/>
 
-<img width="75%" src="https://streak-stats.demolab.com?user=jit-d&theme=tokyonight&hide_border=true&background=0D1117&ring=7B2FF7&fire=FC00FF&currStreakLabel=00DBDE"/>
+<img width="85%" src="https://streak-stats.demolab.com?user=jit-d&theme=tokyonight&hide_border=true&background=0D1117&ring=7B2FF7&fire=FC00FF&currStreakLabel=00DBDE"/>
 
 </div>
 
