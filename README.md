@@ -147,8 +147,6 @@ Learning through projects, solving interesting problems, and following ideas whe
 
 <br/>
 
-<br/><br/>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FC00FF,50:7B2FF7,100:00DBDE&height=150&section=footer&animation=twinkling" width="100%"/>
 
 </div>
