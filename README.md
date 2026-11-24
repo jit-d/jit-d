@@ -27,8 +27,6 @@ I find an idea. I explore it. I build it.
 
 02 / Tech Arsenal
 
-<div align="center">
-
 LANGUAGES
 
 <img src="https://skillicons.dev/icons?i=python,html,cpp,scss&theme=dark" />
