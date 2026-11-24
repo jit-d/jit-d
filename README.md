@@ -10,7 +10,7 @@
 
 </div>
 
-01 / About
+##01 / About
 
 High school student. Independent developer. Professional curiosity enthusiast.
 
@@ -20,7 +20,7 @@ From useful tools to random experiments, I enjoy turning ideas into functional p
 
 I find an idea. I explore it. I build it.
 
-02 / Tech Arsenal
+##02 / Tech Arsenal
 
 LANGUAGES
 
@@ -40,7 +40,7 @@ DEVELOPMENT TOOLS
 
 </div>
 
-03 / Selected Works
+##03 / Selected Works
 
 Different ideas. Different directions. One developer.
 
@@ -103,7 +103,7 @@ Examine stock technicals.
 
 </div>
 
-04 / Currently Building
+##04 / Currently Building
 
 <div align="center">
 
@@ -125,7 +125,7 @@ Data-driven options chain analysis.
 
 </div>
 
-05 / GitHub Statistics
+##05 / GitHub Statistics
 
 <div align="center">
 
@@ -137,7 +137,7 @@ Data-driven options chain analysis.
 
 </div>
 
-06 / The Mindset
+##06 / The Mindset
 
 Exploring. Experimenting. Building.
 
