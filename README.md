@@ -11,7 +11,6 @@
 <a href="https://github.com/jit-d">
 <img src="https://img.shields.io/badge/GITHUB-jit--d-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<img src="https://komarev.com/ghpvc/?username=jit-d&style=for-the-badge&color=7B2FF7&label=PROFILE+VIEWS"/>
 
 </div>
 
@@ -138,7 +137,7 @@ Data-driven options chain analysis.
 
 <br/><br/>
 
-<img width="85%" src="https://streak-stats.demolab.com?user=jit-d&theme=tokyonight&hide_border=true&background=0D1117&ring=7B2FF7&fire=FC00FF&currStreakLabel=00DBDE"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=jit-d&theme=tokyonight&hide_border=true&background=0D1117&ring=7B2FF7&fire=FC00FF&currStreakLabel=00DBDE"/>
 
 </div>
 
