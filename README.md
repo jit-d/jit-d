@@ -1,26 +1,16 @@
-<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:050816,30:301E67,65:7B2FF7,100:00DBDE&text=JIT-D&fontSize=90&fontColor=FFFFFF&fontAlignY=42&animation=twinkling&desc=INDEPENDENT%20DEVELOPER%20%7C%20STUDENT%20%7C%20CREATOR&descSize=14&descAlignY=65" width="100%"/>
-
-<br/>
+_generated with [Platane/snk](https://github.com/Platane/snk)_
 
 <a href="https://github.com/jit-d">
 <img src="https://img.shields.io/badge/GITHUB-jit--d-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
-
-##01 / About
-
-High school student. Independent developer. Professional curiosity enthusiast.
-
-I build things that I feel should exist.
-
-From useful tools to random experiments, I enjoy turning ideas into functional projects. I don't limit myself to a single category or follow a predefined roadmap.
-
-I find an idea. I explore it. I build it.
-
-##02 / Tech Arsenal
 
 LANGUAGES
 
@@ -32,17 +22,11 @@ DATABASE & PLATFORMS
 
 <img src="https://skillicons.dev/icons?i=supabase,mysql,postgres&theme=dark" />
 
-<br/><br/>
-
 DEVELOPMENT TOOLS
 
 <img src="https://skillicons.dev/icons?i=vscode,git,github&theme=dark" />
 
-</div>
-
-##03 / Selected Works
-
-Different ideas. Different directions. One developer.
+##Selected Works
 
 <table width="100%">
 <tr>
@@ -103,29 +87,11 @@ Examine stock technicals.
 
 </div>
 
-##04 / Currently Building
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2500&pause=700&color=00DBDE&center=true&vCenter=true&width=700&lines=OPTIONS+CHAIN+ANALYSIS+ALGORITHM;OPEN+INTEREST+%7C+OPTIONS+GREEKS;MARKET+STRUCTURE+%7C+DATA+ANALYSIS" />
-
-</div>
-
-Options Chain Analysis Algorithm
-
-Developing a share market options chain algorithm focused on:
-
-Open Interest (OI) levels and market structure.
-Interplay and relationships between Options Greeks.
-Data-driven options chain analysis.
-
 <div align="center">
 
 <img src="https://img.shields.io/badge/STATUS-IN%20DEVELOPMENT-00DBDE?style=for-the-badge&logo=github&logoColor=black"/>
 
 </div>
-
-##05 / GitHub Statistics
 
 <div align="center">
 
@@ -137,12 +103,6 @@ Data-driven options chain analysis.
 
 </div>
 
-##06 / The Mindset
-
-Exploring. Experimenting. Building.
-
-Learning through projects, solving interesting problems, and following ideas wherever they lead.
-
 <div align="center">
 
 <br/>
@@ -150,11 +110,3 @@ Learning through projects, solving interesting problems, and following ideas whe
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FC00FF,50:7B2FF7,100:00DBDE&height=150&section=footer&animation=twinkling" width="100%"/>
 
 </div>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-</picture>
-
-_generated with [Platane/snk](https://github.com/Platane/snk)_
