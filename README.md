@@ -6,10 +6,6 @@
 
 _generated with [Platane/snk](https://github.com/Platane/snk)_
 
-<a href="https://github.com/jit-d">
-<img src="https://img.shields.io/badge/GITHUB-jit--d-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
 </div>
 
 <div align="center">
