@@ -12,84 +12,11 @@ _generated with [Platane/snk](https://github.com/Platane/snk)_
 
 </div>
 
-LANGUAGES
-
-<img src="https://skillicons.dev/icons?i=python,html,cpp,scss&theme=dark" />
-
-<br/><br/>
-
-DATABASE & PLATFORMS
-
-<img src="https://skillicons.dev/icons?i=supabase,mysql,postgres&theme=dark" />
-
-DEVELOPMENT TOOLS
-
-<img src="https://skillicons.dev/icons?i=vscode,git,github&theme=dark" />
-
-##Selected Works
-
-<table width="100%">
-<tr>
-<td width="50%" align="left" valign="top">
-
-📈 SONALIKA
-
-A share market tool.
-
-<a href="https://github.com/jit-d/SONALIKA">
-<img src="https://img.shields.io/badge/EXPLORE_PROJECT-00DBDE?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
-
-</td>
-<td width="50%" align="left" valign="top">
-
-🎧 lyricflow
-
-A lyrics-related project.
-
-<a href="https://github.com/jit-d/lyricflow">
-<img src="https://img.shields.io/badge/EXPLORE_PROJECT-7B2FF7?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" align="left" valign="top">
-
-🧬 ema.dna
-
-Visual simple EMA levels.
-
-<a href="https://github.com/jit-d/ema.dna">
-<img src="https://img.shields.io/badge/EXPLORE_PROJECT-7B2FF7?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-<td width="50%" align="left" valign="top">
-
-📦 stock.dna
-
-Examine stock technicals.
-
-<a href="https://github.com/jit-d/stock.dna">
-<img src="https://img.shields.io/badge/EXPLORE_PROJECT-FC00FF?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-</tr>
-</table>
-
 <div align="center">
 
 <a href="https://github.com/jit-d?tab=repositories">
 <img src="https://img.shields.io/badge/VIEW_ALL_REPOSITORIES-181717?style=for-the-badge&logo=github"/>
 </a>
-
-</div>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/STATUS-IN%20DEVELOPMENT-00DBDE?style=for-the-badge&logo=github&logoColor=black"/>
 
 </div>
 
