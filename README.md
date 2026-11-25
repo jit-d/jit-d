@@ -14,7 +14,7 @@
 <img src="https://img.shields.io/badge/VIEW_ALL_REPOSITORIES-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<br/><br/>
+
 
 <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jit-d&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00DBDE&text_color=C9D1D9&langs_count=8"/>
 
