@@ -150,3 +150,11 @@ Learning through projects, solving interesting problems, and following ideas whe
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FC00FF,50:7B2FF7,100:00DBDE&height=150&section=footer&animation=twinkling" width="100%"/>
 
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
+
+_generated with [Platane/snk](https://github.com/Platane/snk)_
